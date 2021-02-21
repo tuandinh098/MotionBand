@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armxds2.dll" 
+
+"E:\5_Working_FIOT\F2_MotionBand\MotionBand\Source\MotionBand\ble_sdk_2_02_01_18\examples\cc2650stk\MotionBand\iar\stack\FlashROM\Exe\MotionBand_cc2650_stack.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\TexasInstruments\CC26xx.dmac" 
+
+--flash_loader "$PROJ_DIR$\..\..\..\..\..\tools\flashloader\FlashCC26xxF128RAM20_word_align.board" 
+
+
+
+
